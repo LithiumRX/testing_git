@@ -1,0 +1,54 @@
+commit 3e021d796e448f3285e5231cb761047e9f5a3b85
+Author: Ahmad Afian <afian@mmsc.com.my>
+Date:   Tue Sep 3 15:10:47 2013 +0800
+
+    finished issue01
+
+commit 6537a7cf6623b4b26405ad8fbc82372cffb19119
+Merge: 9cb9db7 2182362
+Author: Ahmad Afian <afian@mmsc.com.my>
+Date:   Tue Sep 3 14:50:47 2013 +0800
+
+    Merge branch 'issue53'
+
+commit 218236200ce13b1eacaeb46ac60765e88cd6fb42
+Author: Ahmad Afian <afian@mmsc.com.my>
+Date:   Tue Sep 3 14:50:26 2013 +0800
+
+    Fix issue53
+
+commit 9cb9db772add9ab0a5935321e07ab5a8205d7a11
+Author: Ahmad Afian <afian@mmsc.com.my>
+Date:   Tue Sep 3 14:48:22 2013 +0800
+
+    Issue 13 completed
+
+commit 189005211e060ec5e986b3af53f46ceaaaac6dd1
+Author: Ahmad Afian <afian@mmsc.com.my>
+Date:   Tue Sep 3 14:37:53 2013 +0800
+
+    2nd file created at branch testing
+
+commit f157480b466421435a359b3a3b968a21a2136552
+Author: Ahmad Afian <afian@mmsc.com.my>
+Date:   Tue Sep 3 14:34:16 2013 +0800
+
+    Add new file at branch testing
+
+commit b42961159362b88255f29c5fa723d92cf99ef06b
+Author: Ahmad Afian <afian@mmsc.com.my>
+Date:   Sat Aug 31 12:56:04 2013 +0800
+
+    Modified git ignore file (Amended 2nd time)
+
+commit bab4e67e463a439293e6136edd980b4969f8d0ba
+Author: Ahmad Afian <afian@mmsc.com.my>
+Date:   Fri Aug 30 15:44:54 2013 +0800
+
+    New commit for testing.
+
+commit 2dc9fd538994fe3f10fa6805ba5855f781221527
+Author: Ahmad Afian <afian@mmsc.com.my>
+Date:   Fri Aug 30 11:03:52 2013 +0800
+
+    Initial project version
